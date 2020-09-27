@@ -1,0 +1,85 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=Kranky&family=Nosifer&display=swap');
+
+h1 {
+  font-family: 'Nosifer', cursive;
+  text-align: center;
+  color: #9EEFE5;
+}
+
+.container {
+  font-family:'Kranky', cursive;
+}
+
+.container, p, img {
+  text-align: center;
+  background-color: #B7E4C7;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container1 {
+  font-family: 'Kranky', cursive;
+  text-align: center;
+  background-color: powderblue;
+}
+
+.SM {
+  text-align: center;
+  background-color: powderblue;
+}
+
+.container3 {
+  font-family: 'Kranky', cursive;
+  text-align: center;
+  background-color: #C39BD3;
+}
+
+.GC {
+  background-color: #C39BD3;
+}
+
+.container4 {
+  font-family: 'Kranky', cursive;
+  text-align: center;
+  background-color: #1F618D;
+}
+
+.MB {
+  text-align: center;
+  background-color: #1F618D;
+}
+
+.container5 {
+  font-family: 'Kranky', cursive;
+  text-align: center;
+  background-color: #F8C471;
+}
+
+.EC {
+  text-align: center;
+  background-color: #F8C471;
+}
+
+.container6 {
+  font-family: 'Kranky', cursive;
+  text-align: center;
+  background-color: #EC7063;
+}
+
+.ZR {
+  text-align: center;
+  background-color: #EC7063;
+}
+
+h4 {
+  text-align: center;
+}
